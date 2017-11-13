@@ -1,0 +1,8 @@
+Hive serdes: lazy simple serde, columnar serde, json serde, regexserde, 
+
+Hive supports UDF (one row input - one row output), UDAF - user defined aggregate function (mulitple row input one row out), 
+UDTF (user defined table generating function  - many row input many row output)
+
+hive install modes - default (embedded)-not recommended, local mode - hive metastore runs in same JVM as hive service, remote mode - hive metastores runs on separate JVM possibly different server and hive server talks to it via thrift(here RDBMS password need not be exposed).
+
+HCatalog -  
