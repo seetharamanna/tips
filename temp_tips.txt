@@ -6,3 +6,6 @@ UDTF (user defined table generating function  - many row input many row output)
 hive install modes - default (embedded)-not recommended, local mode - hive metastore runs in same JVM as hive service, remote mode - hive metastores runs on separate JVM possibly different server and hive server talks to it via thrift(here RDBMS password need not be exposed).
 
 HCatalog -  
+
+
+https://target.taleo.net/careersection/iam/accessmanagement/login.jsf?lang=en&redirectionURI=https%3A%2F%2Ftarget.taleo.net%2Fcareersection%2Fmyprocesses.ftl%3Flang%3Den%26portal%3D56140020364&TARGET=https%3A%2F%2Ftarget.taleo.net%2Fcareersection%2Fmyprocesses.ftl%3Flang%3Den%26portal%3D56140020364
