@@ -8,11 +8,8 @@ hive install modes - default (embedded)-not recommended, local mode - hive metas
 HCatalog -  
 
 
-https://target.taleo.net/careersection/iam/accessmanagement/login.jsf?lang=en&redirectionURI=https%3A%2F%2Ftarget.taleo.net%2Fcareersection%2Fmyprocesses.ftl%3Flang%3Den%26portal%3D56140020364&TARGET=https%3A%2F%2Ftarget.taleo.net%2Fcareersection%2Fmyprocesses.ftl%3Flang%3Den%26portal%3D56140020364
+Links
 
-https://target.taleo.net/careersection/interview_mysub/jobdetail.ftl?job=BUS0001DJ
-
-
-https://target.taleo.net/careersection/gems/profile.ftl?lang=en&portal=6140441366
-
-https://target.taleo.net/careersection/iam/accessmanagement/login.jsf?lang=en&redirectionURI=https%3A%2F%2Ftarget.taleo.net%2Fcareersection%2Fgems%2Fprofile.ftl%3Flang%3Den%26portal%3D6140441366&TARGET=https%3A%2F%2Ftarget.taleo.net%2Fcareersection%2Fgems%2Fprofile.ftl%3Flang%3Den%26portal%3D6140441366
+http://getindata.com/schema-evolution-with-avro-and-hive/
+https://community.hds.com/community/products-and-solutions/pentaho/blog/2017/11/07/hadoop-file-formats-its-not-just-csv-anymore
+https://github.com/Cargill/pipewrench?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BhPKwevzASs%2BwxbXCVTCRuw%3D%3D
